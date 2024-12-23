@@ -1,2 +1,2 @@
-# pulumi-template
-this is pulumi project template
+# pulumi-Pulumi
+this is pulumi project Pulumi
