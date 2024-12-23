@@ -1,1 +1,1 @@
-Console.WriteLine("template");
+Console.WriteLine("Pulumi");
